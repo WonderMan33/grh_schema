@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <sitemap>
+    <loc>https://wonderman33.github.io/grh_schema/organization.json</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://wonderman33.github.io/grh_schema/website.json</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://wonderman33.github.io/grh_schema/faq.json</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://wonderman33.github.io/grh_schema/marathon.json</loc>
+  </sitemap>
+
+</sitemapindex>
